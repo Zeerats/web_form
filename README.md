@@ -1,5 +1,5 @@
-# web_form
-Reaction timer made in ***Vue.js 3*** following a tutorial by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
+# web_forms
+
 ## Project setup
 ```
 npm install
